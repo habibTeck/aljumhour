@@ -29,7 +29,7 @@ column1                    |  column2
 :-------------------------:|:-------------------------:
 ![image1](https://github.com/habibTeck/aljumhour/blob/main/admin/1.png)  | ![image2](https://github.com/habibTeck/aljumhour/blob/main/admin/2.png)
 ![image3](https://github.com/habibTeck/aljumhour/blob/main/admin/3.png)  | ![image4](https://github.com/habibTeck/aljumhour/blob/main/admin/4.png)
-![image5](https://github.com/habibTeck/aljumhour/blob/main/admin/5.png)  | ![image6](https://github.com/habibTeck/aljumhour/blob/main/admin/6.png)
+![image5](https://github.com/habibTeck/aljumhour/blob/main/admin/7.png)  | ![image6](https://github.com/habibTeck/aljumhour/blob/main/admin/6.png)
 
 
 

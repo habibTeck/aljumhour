@@ -15,24 +15,21 @@ images
 
 # user app 
 
-![image1](https://github.com/habibTeck/aljumhour/blob/main/user/1.png)
-![image2](https://github.com/habibTeck/aljumhour/blob/main/user/2.png)
-![image3](https://github.com/habibTeck/aljumhour/blob/main/user/3.png)
-![image4](https://github.com/habibTeck/aljumhour/blob/main/user/4.png)
-![image5](https://github.com/habibTeck/aljumhour/blob/main/user/5.png)
-![image6](https://github.com/habibTeck/aljumhour/blob/main/user/6.png)
-![image7](https://github.com/habibTeck/aljumhour/blob/main/user/7.png)
-![image8](https://github.com/habibTeck/aljumhour/blob/main/user/8.png)
-![image9](https://github.com/habibTeck/aljumhour/blob/main/user/9.png)
+column1                    |  column2 
+:-------------------------:|:-------------------------:
+![image1](https://github.com/habibTeck/aljumhour/blob/main/user/1.png)  |  ![image2](https://github.com/habibTeck/aljumhour/blob/main/user/2.png)
+![image2](https://github.com/habibTeck/aljumhour/blob/main/user/3.png)  |  ![image2](https://github.com/habibTeck/aljumhour/blob/main/user/4.png)
+![image1](https://github.com/habibTeck/aljumhour/blob/main/user/5.png)  |  ![image2](https://github.com/habibTeck/aljumhour/blob/main/user/6.png)
+![image2](https://github.com/habibTeck/aljumhour/blob/main/user/7.png)  |  ![image2](https://github.com/habibTeck/aljumhour/blob/main/user/8.png)
 
 # admin app
 
-![image1](https://github.com/habibTeck/aljumhour/blob/main/admin/1.png)
-![image2](https://github.com/habibTeck/aljumhour/blob/main/admin/2.png)
-![image3](https://github.com/habibTeck/aljumhour/blob/main/admin/3.png)
-![image4](https://github.com/habibTeck/aljumhour/blob/main/admin/4.png)
-![image5](https://github.com/habibTeck/aljumhour/blob/main/admin/5.png)
-![image6](https://github.com/habibTeck/aljumhour/blob/main/admin/6.png)
-![image7](https://github.com/habibTeck/aljumhour/blob/main/admin/6.png)
+
+column1                    |  column2 
+:-------------------------:|:-------------------------:
+![image1](https://github.com/habibTeck/aljumhour/blob/main/admin/1.png)  | ![image2](https://github.com/habibTeck/aljumhour/blob/main/admin/2.png)
+![image3](https://github.com/habibTeck/aljumhour/blob/main/admin/3.png)  | ![image4](https://github.com/habibTeck/aljumhour/blob/main/admin/4.png)
+![image5](https://github.com/habibTeck/aljumhour/blob/main/admin/5.png)  | ![image6](https://github.com/habibTeck/aljumhour/blob/main/admin/6.png)
+
 
 

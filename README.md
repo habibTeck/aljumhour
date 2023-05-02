@@ -1,17 +1,38 @@
-# aljumhour
+# Aljumhoor project 
 
-A new Flutter project.
+Application will be used to publish Customer Ads for Aljumhoor Company.
+Tools
+Authentication , Flutter , Firebase Firestore , Firebase Storage , Animation , Adobe XD for Design Link: 
+# try app 
+user app and admin app
+https://drive.google.com/file/d/1UqC2HcY8aily7iGGm2S-_3H2ICasKCg_/view?usp=share_link
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+images
+# MVVM
+<img width="331" alt="Screen Shot 2023-05-02 at 10 42 17 PM" src="https://user-images.githubusercontent.com/102364205/235769048-700d2c20-09fe-4adb-8e62-22f378facd0d.png">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# user app 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# aljumhour
+![image1](https://github.com/habibTeck/aljumhour/blob/main/user/1.png)
+![image2](https://github.com/habibTeck/aljumhour/blob/main/user/2.png)
+![image3](https://github.com/habibTeck/aljumhour/blob/main/user/3.png)
+![image4](https://github.com/habibTeck/aljumhour/blob/main/user/4.png)
+![image5](https://github.com/habibTeck/aljumhour/blob/main/user/5.png)
+![image6](https://github.com/habibTeck/aljumhour/blob/main/user/6.png)
+![image7](https://github.com/habibTeck/aljumhour/blob/main/user/7.png)
+![image8](https://github.com/habibTeck/aljumhour/blob/main/user/8.png)
+![image9](https://github.com/habibTeck/aljumhour/blob/main/user/9.png)
+
+# admin app
+
+![image1](https://github.com/habibTeck/aljumhour/blob/main/admin/1.png)
+![image2](https://github.com/habibTeck/aljumhour/blob/main/admin/2.png)
+![image3](https://github.com/habibTeck/aljumhour/blob/main/admin/3.png)
+![image4](https://github.com/habibTeck/aljumhour/blob/main/admin/4.png)
+![image5](https://github.com/habibTeck/aljumhour/blob/main/admin/5.png)
+![image6](https://github.com/habibTeck/aljumhour/blob/main/admin/6.png)
+![image7](https://github.com/habibTeck/aljumhour/blob/main/admin/6.png)
+
+
